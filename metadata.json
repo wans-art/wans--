@@ -1,0 +1,6 @@
+{
+  "name": "ونس",
+  "description": "تطبيق رفيقك الذكي لكبار السن لتنظيم وتذكير مواعيد العلاج والمهام اليومية مع تنبيهات صوتية ومتابعة الأهل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
